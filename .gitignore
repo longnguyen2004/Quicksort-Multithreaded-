@@ -1,0 +1,7 @@
+
+*.obj
+*.pch
+*.log
+*.tlog
+.vs/Quicksort (Multithreaded)/v15/.suo
+*.ipch
