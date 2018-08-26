@@ -5,3 +5,5 @@
 *.tlog
 .vs/Quicksort (Multithreaded)/v15/.suo
 *.ipch
+*.db
+*.opendb
